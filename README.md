@@ -13,6 +13,10 @@ You can interact with the web application by running the following command:
 ``` bash
 streamlit run app.py
 ```
+<img src="https://github.com/user-attachments/assets/7abd5d4e-0e2d-48a2-9469-3cdfc7f0a2ed" alt='Image' width="1000" height="400"/>
+<img src="https://github.com/user-attachments/assets/ccf1311e-9655-4641-b26a-0acd4957ca0d" alt='Image' width="500" height="400"/>
+<img src="https://github.com/user-attachments/assets/24e5963b-40a8-4118-8800-43bcc3c9d24c" alt='Image' width="500" height="400"/>
+<img src="https://github.com/user-attachments/assets/aa352a62-ef2e-4748-bba1-452502a96241" alt='Image' width="500" height="400"/>
 
 ### The app provides two primary features:
 
