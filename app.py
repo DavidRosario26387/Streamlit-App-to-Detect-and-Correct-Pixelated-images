@@ -1,6 +1,5 @@
 # app.py
 import streamlit as st
-from streamlit_image_comparison import image_comparison
 from PIL import Image  
 from Detection_model import predict_image
 from ESPCN import correct
@@ -46,5 +45,5 @@ with col2:
     if uploaded_file2 is not None:
         image2 = Image.open(uploaded_file2)
         st.image(image2, caption="Uploaded Image for Correction", use_column_width=True)
-    if correct_button and uploaded_file1 is not None:
+    if correct_button and uploaded_file2 is not None:
         correct_image(image2)
