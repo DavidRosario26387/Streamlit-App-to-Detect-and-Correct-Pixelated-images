@@ -1,4 +1,4 @@
-numpy==2.1.1
+numpy==1.23.5 tensorflow
 opencv_contrib_python==4.5.5.64
 Pillow==10.4.0
 streamlit==1.38.0
