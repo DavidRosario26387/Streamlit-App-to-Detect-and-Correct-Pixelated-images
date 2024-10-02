@@ -1,7 +1,4 @@
-streamlit
-Pillow
-opencv-python
-tensorflow
 numpy
-opencv-python-headless
+tensorflow
 opencv-contrib-python
+Pillow
